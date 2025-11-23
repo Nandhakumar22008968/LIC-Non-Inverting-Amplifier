@@ -48,3 +48,4 @@ PC with LT Spice Software
 <img width="1420" height="500" alt="image" src="https://github.com/user-attachments/assets/7b7f278a-fe6a-4b03-89a8-732571d0ef8a" />
 
 ## RESULT:
+Thus the non-inverting amplifier was simulated and output verified.
