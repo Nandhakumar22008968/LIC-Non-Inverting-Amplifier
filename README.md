@@ -45,7 +45,13 @@ PC with LT Spice Software
 
 
 ## OUTPUTS:
-<img width="1420" height="500" alt="image" src="https://github.com/user-attachments/assets/7b7f278a-fe6a-4b03-89a8-732571d0ef8a" />
+##INPUT WAVEFORM:
+<img width="954" height="377" alt="image" src="https://github.com/user-attachments/assets/3385bebc-a065-4d74-8108-8af81c9aab05" />
+
+##OUTPUT WAVEFORM:
+<img width="957" height="416" alt="image" src="https://github.com/user-attachments/assets/93018846-4600-459a-aded-73435d79e562" />
+
 
 ## RESULT:
-Thus the non-inverting amplifier was simulated and output verified.
+![WhatsApp Image 2025-11-23 at 17 04 08_da6ace1c](https://github.com/user-attachments/assets/d4bec6fe-4705-4052-a038-d3287fbdf77c)
+
