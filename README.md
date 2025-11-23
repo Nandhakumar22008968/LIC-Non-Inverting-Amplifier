@@ -45,10 +45,10 @@ PC with LT Spice Software
 
 
 ## OUTPUTS:
-##INPUT WAVEFORM:
+## INPUT WAVEFORM:
 <img width="954" height="377" alt="image" src="https://github.com/user-attachments/assets/3385bebc-a065-4d74-8108-8af81c9aab05" />
 
-##OUTPUT WAVEFORM:
+## OUTPUT WAVEFORM:
 <img width="957" height="416" alt="image" src="https://github.com/user-attachments/assets/93018846-4600-459a-aded-73435d79e562" />
 
 
